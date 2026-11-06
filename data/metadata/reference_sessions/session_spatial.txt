@@ -1,0 +1,42 @@
+R version 4.3.1 (2023-06-16 ucrt)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] LC_COLLATE=English_United States.utf8  LC_CTYPE=English_United States.utf8   
+[3] LC_MONETARY=English_United States.utf8 LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.utf8    
+
+time zone: America/New_York
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+ [1] corrplot_0.92   patchwork_1.3.2 DHARMa_0.5.0    spdep_1.3-5     sf_1.0-22       spData_2.3.1   
+ [7] spaMM_4.5.0     lubridate_1.9.3 forcats_1.0.0   stringr_1.5.1   dplyr_1.1.4     purrr_1.0.4    
+[13] readr_2.1.5     tidyr_1.3.1     tibble_3.2.1    ggplot2_4.0.2   tidyverse_2.0.0
+
+loaded via a namespace (and not attached):
+ [1] tidyselect_1.2.1    farver_2.1.2        S7_0.2.0            fastmap_1.1.1       promises_1.3.0     
+ [6] digest_0.6.35       mime_0.12           timechange_0.3.0    lifecycle_1.0.5     magrittr_2.0.4     
+[11] dbscan_1.1-12       compiler_4.3.1      rlang_1.1.5         tools_4.3.1         utf8_1.2.4         
+[16] labeling_0.4.3      bit_4.0.5           sp_2.2-0            classInt_0.4-11     plyr_1.8.9         
+[21] RColorBrewer_1.1-3  gap.datasets_0.0.6  KernSmooth_2.23-21  registry_0.5-1      withr_3.0.2        
+[26] numDeriv_2016.8-1.1 grid_4.3.1          fansi_1.0.6         xtable_1.8-4        e1071_1.7-16       
+[31] scales_1.4.0        iterators_1.0.14    MASS_7.3-60         cli_3.6.2           crayon_1.5.2       
+[36] ragg_1.3.0          generics_0.1.3      rstudioapi_0.16.0   tzdb_0.4.0          minqa_1.2.5        
+[41] DBI_1.2.3           pbapply_1.7-2       ape_5.7-1           proxy_0.4-27        splines_4.3.1      
+[46] parallel_4.3.1      s2_1.1.9            vctrs_0.6.5         boot_1.3-28.1       Matrix_1.6-5       
+[51] slam_0.1-56         hms_1.1.3           bit64_4.0.5         qgam_2.0.0          systemfonts_1.0.6  
+[56] foreach_1.5.2       units_1.0-0         gap_1.15.2          glue_1.7.0          ROI_1.0-2          
+[61] nloptr_2.0.3        codetools_0.2-19    stringi_1.8.3       gtable_0.3.6        later_1.3.2        
+[66] deldir_2.0-4        lme4_1.1-35.2       pillar_1.9.0        htmltools_0.5.8.1   R6_2.5.1           
+[71] textshaping_0.3.7   wk_0.9.4            Rdpack_2.6.6        doParallel_1.0.17   shiny_1.8.1.1      
+[76] vroom_1.6.5         lattice_0.22-6      rbibutils_2.4.1     backports_1.4.1     httpuv_1.6.15      
+[81] class_7.3-22        Rcpp_1.1.0          nlme_3.1-162        checkmate_2.2.0     mgcv_1.9-1         
+[86] pkgconfig_2.0.3    

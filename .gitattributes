@@ -1,0 +1,11 @@
+* text=auto
+*.R text eol=lf
+*.Rproj text eol=lf
+*.md text eol=lf
+*.js text eol=lf
+*.csv text eol=lf
+*.rds binary
+*.xlsx binary
+#preserve input bytes across platforms so their checksums remain valid
+/data/** -text
+
