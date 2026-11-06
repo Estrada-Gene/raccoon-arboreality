@@ -14,15 +14,6 @@ and supplementary figures and tables.
 | 4 | `scripts/04_seasonal.R` | Seasonal GAMs, geographic-basis sensitivity, temporal curves |
 | 5 | `scripts/05_temperature.R` | Temperature GAMs, odds-ratio contrasts, sensitivity comparisons |
 
-```r
-source("scripts/00_setup.R")
-source("scripts/01_prep.R")
-source("scripts/02_spatial.R")
-source("scripts/03_diel.R")
-source("scripts/04_seasonal.R")
-source("scripts/05_temperature.R")
-```
-
 ## Software versions
 
 Setup installs missing packages but does not pin their versions. Available
