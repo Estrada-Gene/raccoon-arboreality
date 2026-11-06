@@ -1,8 +1,10 @@
 # Raccoon arboreality
 
 Code and data for Greiner et al. Latitude and anthropogenic modification predict geographic variation in raccoon arboreality. 
+
 The code here rebuilds the equal-area grid and fits the spatial, diel, seasonal, and temperature
-analyses from the coded raccoon observation table and environmental variables.
+analyses from the coded raccoon observation table and environmental variables, and creates all main 
+and supplementary figures and tables.
 
 | Order | Script | Main saved products |
 |---|---|---|
