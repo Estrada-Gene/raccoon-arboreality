@@ -16,5 +16,4 @@ and supplementary figures and tables.
 
 ## Software versions
 
-Setup installs missing packages but does not pin their versions. Available
-reference `sessionInfo()` files are retained under `data/metadata/reference_sessions/`.
+Available reference `sessionInfo()` files are retained under `data/metadata/reference_sessions/`.
